@@ -1,7 +1,7 @@
 {
   "name": "tomorrow-night-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tomorrow Night syntax theme for Atom.",
   "repository": "https://github.com/rockymadden/tomorrow-night-syntax-theme",
   "license": "MIT",
